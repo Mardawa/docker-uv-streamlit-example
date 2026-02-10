@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.env
+.venv
+venv/
+env/
+
+# uv cache
+.uv/
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Git files
+.git/
+.gitignore
+
+# Byte-compiled and temp files
+*.log
+*.tmp
+
+# Streamlit
+.streamlit/
+
+# Docker
+Dockerfile
+docker-compose.yml
+
+# Do not include local data
+data/
+datasets/
+*.csv
+*.xlsx
+
+# Ignore build artifacts
+dist/
+build/
