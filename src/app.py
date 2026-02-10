@@ -1,3 +1,4 @@
 import streamlit as st
 
 st.title("Hello from Streamlit + uv + Docker")
+st.write("This is a minimal reproducible setup.")
